@@ -1,8 +1,11 @@
-*snakewatergun game..*
+**snakewatergun game..**
+
 This is a basic mini project of snake-gun-water game created using c programming.
 
 This game is similar to Rock paper scissor where:
 
-Snake drinks water (Snake wins)
-Water douses gun (Water wins)
-Gun shoots snake (Gun wins)
+1)Snake drinks water (Snake wins)
+
+2)Water douses gun (Water wins)
+
+3)Gun shoots snake (Gun wins)
